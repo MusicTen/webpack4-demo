@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/MusicTen/webpack4-demo#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^2.0.1",
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.0"
   }
